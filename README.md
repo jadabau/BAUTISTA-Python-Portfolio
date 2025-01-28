@@ -1,30 +1,21 @@
-# BAUTISTA-Python-Portfolio
+# 🚀 BAUTISTA Python Portfolio
 
-## Hey, I'm Jada 👋
+## 🎯 Overview
+Welcome to Jada's **Data Science Portfolio**! 📊 Here, I will be showcasing projects demonstrating my skills in **Python, machine learning, and visualization**. This repository serves as a growing collection of **hands-on data science work**, exploring real-world datasets and algorithms. 🚀  
 
-<!--
+## 📂 Repository Structure
+This repository is structured into different sections based on the **data science workflow**:
 
-Here are some ideas to get you started:
+📊 **EDA/** - Exploratory Data Analysis  
+📈 **visualizations/** - Data visualization projects
+🤖 **models/** - Machine learning: training and evaluation  
+📂 **data/** - Sample datasets used in projects  
+📓 **notebooks/** - Jupyter notebooks with documented analyses   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns:  ...
-- ⚡ Fun fact: ...
--->
-<code><img height="200px" src=""></code>
+---
 
-___
-
-## About Me 👋
-I am an undergraduate student at the **University of Notre Dame** born in Manila, Philippines. Pursuing a dynamic combination of degrees in **Visual Communication Design, Psychology, and Computing Digital Technologies – Artificial Intelligence Track**, I aim to craft compelling brand identities and intuitive UI/UX designs.
-
-___
-
-## Data Science Projects 
-
-___
-## Let's Connect 🌐
+## 🌟 Future Plans
+✅ Implement **machine learning case studies** using real-world datasets.  
+✅ Deploy **interactive dashboards** using Streamlit.  
+✅ Experiment with **deep learning models** for NLP and computer vision.  
+✅ Contribute to **open-source data science projects**.  
