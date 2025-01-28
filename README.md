@@ -1,21 +1,15 @@
 # 🚀 BAUTISTA Python Portfolio
 
-## 🎯 Overview
-Welcome to Jada's **Data Science Portfolio**! 📊 Here, I will be showcasing projects demonstrating my skills in **Python, machine learning, and visualization**. This repository serves as a growing collection of **hands-on data science work**, exploring real-world datasets and algorithms. 🚀  
+Welcome to Jada's **Data Science Portfolio**! 📊 Here, I will be showcasing projects demonstrating my skills in **Python, machine learning, and visualization**. This is my growing collection of **hands-on data science work** 🌟 
 
 ## 📂 Repository Structure
-This repository is structured into different sections based on the **data science workflow**:
+This repository will be structured into different sections:
 
-📊 **EDA/** - Exploratory Data Analysis  
-📈 **visualizations/** - Data visualization projects
-🤖 **models/** - Machine learning: training and evaluation  
-📂 **data/** - Sample datasets used in projects  
-📓 **notebooks/** - Jupyter notebooks with documented analyses   
-
----
-
-## 🌟 Future Plans
-✅ Implement **machine learning case studies** using real-world datasets.  
-✅ Deploy **interactive dashboards** using Streamlit.  
-✅ Experiment with **deep learning models** for NLP and computer vision.  
-✅ Contribute to **open-source data science projects**.  
+📊 **EDA** - Exploratory Data Analysis  
+    - Include comprehensive analysis divided into various parts
+📂 **Data** - Sample datasets used in projects  
+🤖 **Models** - Machine learning: training and evaluation  
+    - Include photos and link to Chainforge & OpenAI API projects
+📈 **Visualizations** - Data visualization projects
+    - Include datasets and graphs
+📓 **Notebooks** - Jupyter notebooks with analyses   
