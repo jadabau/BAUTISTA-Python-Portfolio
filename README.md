@@ -1,4 +1,4 @@
-# ✳️ BAUTISTA Python Portfolio
+# ✳️ Jada's Python Portfolio
 
 Welcome to my **Data Science Portfolio**! 📊 Here, I will be showcasing projects demonstrating my skills in **Python and visualization**. This is my growing collection of **hands-on data science work** 🌟 
 
