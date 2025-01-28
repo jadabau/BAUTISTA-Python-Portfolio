@@ -1,7 +1,6 @@
 # ✳️ Jada's Python Portfolio  
 
-Welcome to my **Data Science Portfolio**! 📊  
-Here, I will be showcasing my growing project collection demonstrating my skills in **Python and visualization** 🌟  
+Welcome to my **Data Science Portfolio**! 📊  Here, I will be showcasing my growing project collection demonstrating my skills in **Python and visualization** 🌟  
 
 ---
 
