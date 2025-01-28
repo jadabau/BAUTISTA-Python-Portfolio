@@ -7,7 +7,10 @@ This repository will be structured into different sections:
 
 📊 **EDA** - Exploratory Data Analysis  
     - Include comprehensive analysis divided into various parts
+    
 📂 **Data** - Sample datasets used in projects  
+
 📈 **Visualizations** - Data visualization projects
     - Include datasets and graphs
+    
 📓 **Notebooks** - Jupyter notebooks with analyses   
