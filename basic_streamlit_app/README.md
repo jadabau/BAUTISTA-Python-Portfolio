@@ -7,7 +7,7 @@ The **Movie Ratings Viewer** is an interactive Streamlit web app that allows use
 
 ✅ **Filter by audience score %**: Adjust the slider to filter movies within a specific audience rating range
 
-## 🛠️ To run the app...
+## To run the app...
 1. Clone this repository
 2. Navigate through the **basic_streamlit_app** project folder
 3. Run: **streamlit run basic_streamlit_app/main.py**
