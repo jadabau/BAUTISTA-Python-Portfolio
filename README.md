@@ -1,21 +1,18 @@
 # ✳️ Jada's Python Portfolio  
 
-Welcome to my **Data Science Portfolio**! 📊  Here, I will be showcasing my growing project collection demonstrating my skills in **Python and visualization** 🌟  
+Welcome to my **Python Portfolio**! 📊  Here, I will be showcasing my growing project collection demonstrating my skills in **Python and visualization** 🌟  
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository structure  
 
-This repository is structured into different sections:  
+This repository will be structured into different sections:  
 
-- **📊 Exploratory Data Analysis**  
+- **📊 Exploratory data analysis**  
   - Will include comprehensive analyses divided into various parts 
 
-- **📂 Sample Datasets**  
+- **📂 Sample datasets**  
   - Will contain datasets used in projects
 
-- **📈 Data Visualization Projects**  
+- **📈 Data visualization projects**  
   - Will include datasets and graphs of various visualization techniques
-
-- **📓 Jupyter Notebooks**  
-  - Will contain well-documented Jupyter notebooks with analysis
