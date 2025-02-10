@@ -9,5 +9,6 @@ The **Movie Ratings Viewer** is an interactive Streamlit web app that allows use
 
 ## To run the app...
 1. Clone this repository
-2. Navigate through the **basic_streamlit_app** project folder
+2. Navigate to the **basic_streamlit_app** project folder
 3. Run: **streamlit run basic_streamlit_app/main.py**
+4. Open the URL that the terminal will display!
