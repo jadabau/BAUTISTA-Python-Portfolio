@@ -1,10 +1,10 @@
 # ✳️ Jada's Python Portfolio  
 
-Welcome to my **Python Portfolio**! 📊  Here, I will be showcasing my growing project collection demonstrating my skills in **Python and visualization** 🌟  
+Welcome to my **Python Portfolio**! Here, I will be showcasing my growing project collection demonstrating my skills in **Python and visualization** 🌟  
 
 ---
 
-## 📂 Repository structure  
+## Repository structure  
 
 This repository will be structured into different sections:  
 
