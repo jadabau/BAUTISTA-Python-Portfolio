@@ -4,7 +4,7 @@ Welcome to my **Python Portfolio**! Showcased is my growing project collection d
 
 ---
 
-### 🎓 Streamlit App: [Notre Dame NER Explorer](jadabau/NERStreamlitApp)
+### 🎓 Streamlit App: [Notre Dame NER Explorer](https://github.com/jadabau/BAUTISTA-Python-Portfolio/blob/main/NERStreamlitApp/README.md)
 This interactive app uses **spaCy** and **Streamlit** to let users explore custom **Named Entity Recognition** (NER). Users can upload or paste their own text, define custom entity labels and patterns (like “PLACE” or “SCHOOL”), and see entities highlighted live.
 
 💡 Features:
