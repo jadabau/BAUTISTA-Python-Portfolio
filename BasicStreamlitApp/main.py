@@ -5,7 +5,7 @@ st.title("🎬 Movie Ratings Viewer")
 st.markdown("Go through the top grossed movies between **2007 and 2011**!")
 
 # load the dataset
-csv_path = "basic_streamlit_app/data/your_data.csv"
+csv_path = "data/movies.csv"
 df = pd.read_csv(csv_path)
 
 # change 'Audience score %' to numeric
