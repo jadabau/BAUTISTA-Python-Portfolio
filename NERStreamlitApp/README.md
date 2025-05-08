@@ -1,6 +1,6 @@
 # 🎓 Notre Dame NER Explorer
 
-Welcome to the **[Notre Dame NER Explorer](https://github.com/jadabau/BAUTISTA-Python-Portfolio/blob/main/NERStreamlitApp/README.md)**: a custom-built Named Entity Recognition (NER) web app powered by **spaCy** and **Streamlit**, with the shamrock-studded Notre Dame spirit ☘️
+Welcome to the **[Notre Dame NER Explorer](https://jadabau-ner.streamlit.app/)**: a custom-built Named Entity Recognition (NER) web app powered by **spaCy** and **Streamlit**, with the shamrock-studded Notre Dame spirit ☘️
 
 This app allows users to upload or paste their own text, define custom NER patterns, and visually explore highlighted entities in real-time using spaCy’s `EntityRuler`. Whether you're working with stories, campus history, or just experimenting with language, this tool makes entity recognition both easy, educational, and efficient.
 
