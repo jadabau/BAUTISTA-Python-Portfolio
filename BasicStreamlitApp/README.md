@@ -8,6 +8,8 @@ The **[Movie Ratings Viewer](https://jadabau-basic.streamlit.app/)** is an inter
 ✅ **Filter by audience score %**: Adjust the slider to filter movies within a specific audience rating range
 
 ## To run the app...
+
+```bash
 # Step 1: Clone the repository
 git clone https://github.com/jadabau/BAUTISTA-Python-Portfolio.git
 
