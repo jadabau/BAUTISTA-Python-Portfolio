@@ -8,7 +8,18 @@ The **[Movie Ratings Viewer](https://jadabau-basic.streamlit.app/)** is an inter
 ✅ **Filter by audience score %**: Adjust the slider to filter movies within a specific audience rating range
 
 ## To run the app...
-1. Clone this repository
-2. Navigate to the **basic_streamlit_app** project folder
-3. Run: **streamlit run basic_streamlit_app/main.py**
-4. Open the URL that the terminal will display!
+# Step 1: Clone the repository
+git clone https://github.com/jadabau/BAUTISTA-Python-Portfolio.git
+
+# Step 2: Navigate into the project folder
+cd your-repo-name/BasicStreamlitApp
+
+# Step 3: Create a virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Step 4: Install required libraries manually
+pip install streamlit pandas
+
+# Step 5: Run the app
+streamlit run main.py
