@@ -1,4 +1,4 @@
-# Travel Pilipinas: A Cultural Explorer 🌴✨
+# Travel Pilipinas: A Cultural Explorer 🌴✨🇵🇭
 
 ## Project Overview
 
