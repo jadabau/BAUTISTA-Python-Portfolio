@@ -26,7 +26,7 @@ conda create -n streamlit_env python=3.10
 conda activate streamlit_env
 
 3. Install dependencies
-pip install streamlit pandas openpyxl
+pip install streamlit pandas
 
 4. Run the app locally
 streamlit run app.py
