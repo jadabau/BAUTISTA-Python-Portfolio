@@ -12,7 +12,7 @@ st.sidebar.title("🌺 Navigation")
 page = st.sidebar.radio("Go to:", ["🏠 Home", "🌸 Explore by Category"])
 
 # App title (always shown)
-st.markdown("<h1 style='text-align: center;'>🇵🇭 Travel Pilipinas: Cultural Explorer 🌴✨</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Travel Pilipinas: Cultural Explorer 🇵🇭🌴✨</h1>", unsafe_allow_html=True)
 
 # Home Page
 if page == "🏠 Home":
