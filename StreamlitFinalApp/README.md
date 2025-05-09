@@ -13,20 +13,20 @@
 
 ## ⚙️ Setup & Run Instructions
 
-### 💻 Local Installation
+### Local Installation
 
 How to use it:
 ```bash
-1. Clone the repository
+# Clone the repository
 git clone https://github.com/YOURUSERNAME/BAUTISTA-Python-Portfolio.git
 cd BAUTISTA-Python-Portfolio/StreamlitFinalApp
 
-2. Create & activate your environment (if you use conda)
+# Create & activate your environment (if you use conda)
 conda create -n streamlit_env python=3.10
 conda activate streamlit_env
 
-3. Install dependencies
+# Install dependencies
 pip install streamlit pandas
 
-4. Run the app locally
+# Run the app locally
 streamlit run app.py
