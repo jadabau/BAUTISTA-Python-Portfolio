@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load the dataset
-df = pd.read_excel('StreamlitFinalApp/phtravel.xlsx')
+df = pd.read_csv('StreamlitFinalApp/phtravel.csv')
 
 # Rename columns for map compatibility
 df = df.rename(columns={'Latitude': 'latitude', 'Longitude': 'longitude'})
