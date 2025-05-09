@@ -5,7 +5,7 @@ Welcome to my **Python Portfolio**! Showcased is my growing project collection d
 ---
 
 ### 🇵🇭 Streamlit App: Travel Pilipinas Cultural Explorer  
-This interactive web app, built with **Streamlit**, helps users explore the diverse cultural, natural, and historical destinations of the Philippines.   Users can browse places by category, view them on a map, and learn about their history, highlights, and special local dishes.
+This interactive web app, built with **Streamlit**, helps tourists explore the diverse cultural and natural destinations of the Philippines according to their purpose of travel. Users can browse places by category, view them on a map, and learn about their history, highlights, and special local dishes.
 
 Features:
 - Sidebar navigation to switch between Home and Explore views
@@ -14,7 +14,7 @@ Features:
 - Embedded photos of each place and their must-try local food
 - Informative trivia and food recommendations to enrich the user experience
 
-This project showcases my passion for **data visualization**, **interactive design**, and **cultural storytelling**.
+This project showcases my passion for **data visualization** and **cultural storytelling**.
 
 ---
 
@@ -24,12 +24,12 @@ This interactive app uses **spaCy** and **Streamlit** to let users explore custo
 Features:
 - Define custom NER patterns using spaCy’s `EntityRuler`
 - Upload or paste any text
-- View labeled entities with an electric Notre Dame theme ☘️
+- View labeled entities with an electric Notre Dame theme
 - Styled with custom HTML/CSS for an interactive and branded user experience
 
 ---
 
-## Streamlit App: The Movie Ratings Viewer
+### 🎬 Streamlit App: [The Movie Ratings Viewer](https://github.com/jadabau/BAUTISTA-Python-Portfolio/tree/main/BasicStreamlitApp)
 
 This interactive web app was built using **Streamlit** to explore the top-grossing movies between 2007 and 2011! You can filter movies based on genre and audience score to discover trends and insights.
 
@@ -39,7 +39,7 @@ Features:
 
 ---
 
-## Tidy Data Project: 2008 Olympic Medalists
+### 🧹 Tidy Data Project: 2008 Olympic Medalists
 
 This project applies the principles of **tidy data** to transform and analyze the 2008 Olympic Medalist dataset using Python.  
 
