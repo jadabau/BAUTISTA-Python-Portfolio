@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# Load the CSV
+# Load the dataset
 df = pd.read_excel('StreamlitFinalApp/phtravel.xlsx')
 
 # Rename columns for map compatibility
