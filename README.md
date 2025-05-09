@@ -4,7 +4,7 @@ Welcome to my **Python Portfolio**! Showcased is my growing project collection d
 
 ---
 
-### 🇵🇭 Streamlit App: Travel Pilipinas Cultural Explorer  
+### 🇵🇭 Streamlit App: [Travel Pilipinas Cultural Explorer](https://github.com/jadabau/BAUTISTA-Python-Portfolio/tree/main/StreamlitFinalApp)
 This interactive web app, built with **Streamlit**, helps tourists explore the diverse cultural and natural destinations of the Philippines according to their purpose of travel. Users can browse places by category, view them on a map, and learn about their history, highlights, and special local dishes.
 
 Features:
@@ -39,7 +39,7 @@ Features:
 
 ---
 
-### 🧹 Tidy Data Project: 2008 Olympic Medalists
+### 🧹 Tidy Data Project: [2008 Olympic Medalists](https://github.com/jadabau/BAUTISTA-Python-Portfolio/tree/main/TidyDataProject)
 
 This project applies the principles of **tidy data** to transform and analyze the 2008 Olympic Medalist dataset using Python.  
 
