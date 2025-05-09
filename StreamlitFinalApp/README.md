@@ -16,19 +16,21 @@ Instead of just showing maps or lists, this app curates cultural, natural, and h
 
 ### 💻 Local Installation
 
-1: Clone the repository:
+How to use it:
 ```bash
 git clone https://github.com/YOURUSERNAME/BAUTISTA-Python-Portfolio.git
 cd BAUTISTA-Python-Portfolio/StreamlitFinalApp
 
-2: Install dependencies:
-```bash
-conda activate streamlit_env  # or your environment
-pip install streamlit pandas
+1. Clone the repository
+git clone https://github.com/YOURUSERNAME/BAUTISTA-Python-Portfolio.git
+cd BAUTISTA-Python-Portfolio/StreamlitFinalApp
 
-3: Run the app locally
-```bash
+2. Create & activate your environment (if you use conda)
+conda create -n streamlit_env python=3.10
+conda activate streamlit_env
+
+3. Install dependencies
+pip install streamlit pandas openpyxl
+
+4. Run the app locally
 streamlit run app.py
-
-The app will open in your browser at:
-http://localhost:8501
